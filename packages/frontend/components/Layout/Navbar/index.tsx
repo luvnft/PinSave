@@ -148,7 +148,7 @@ export function Navbar({ links }: NavbarProps) {
             {hasMounted && (
               <Image
                 src={iconLeftPath}
-                alt="Pin Save EVM"
+                alt="Pin EVM"
                 width={iconWidth}
                 height={iconHeight}
                 priority
